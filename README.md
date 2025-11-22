@@ -40,6 +40,6 @@
     <strong>4. DOWNLOAD BOT ZIP</strong>
     <br>
     <a href="https://codeload.github.com/2005101/SKYPER-MD/zip/refs/heads/main" target="_blank">
-        <img alt="Download zip" src="https://img.shields.io/badge/Download-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
+        <img alt="Download zip" src="https://img.shields.io/badge/Download-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkorange"/>
     </a>
 </p>
